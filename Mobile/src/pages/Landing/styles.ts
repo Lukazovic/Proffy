@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     color: '#FFF',
     fontSize: 20,
     lineHeight: 30,
-    marginTop: 80,
+    marginTop: 40,
   },
 
   titleBold: {
@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
 
   buttonsContainer: {
     flexDirection: 'row',
-    marginTop: 40,
+    marginTop: 20,
     justifyContent: 'space-between',
   },
 
